@@ -1,0 +1,4 @@
+accessing
+gatewayUrl
+
+	^ self subclassResponsibility

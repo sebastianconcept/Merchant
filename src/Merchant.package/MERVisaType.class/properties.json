@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERVisaType",
+	"pools" : [
+		 ],
+	"super" : "MERCardType",
+	"type" : "normal" }

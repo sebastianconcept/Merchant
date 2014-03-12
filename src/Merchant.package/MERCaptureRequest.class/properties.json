@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Actions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERCaptureRequest",
+	"pools" : [
+		 ],
+	"super" : "MERPaymentRequest",
+	"type" : "normal" }

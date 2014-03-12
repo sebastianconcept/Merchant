@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastian.sastre 7/1/2009 11:31",
+	"instvars" : [
+		 ],
+	"name" : "MERCanNotValidateLocally",
+	"pools" : [
+		 ],
+	"super" : "MERError",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"for:in:with:" : "sebastian.sastre 7/1/2009 16:36" },
+	"instance" : {
+		"canValidateLocally" : "sebastian.sastre 7/1/2009 16:34",
+		"cents" : "sebastian.sastre 7/1/2009 16:34",
+		"creditCard" : "sebastian.sastre 7/1/2009 16:35",
+		"creditCard:" : "sebastian.sastre 7/1/2009 16:35",
+		"discountCents" : "sebastiansastre 6/21/2011 11:45",
+		"hasCreditCard" : "sebastiansastre 5/11/2012 15:55",
+		"onAboutToProcess" : "sebastiansastre 8/14/2011 21:36",
+		"order" : "sebastian.sastre 7/1/2009 16:34",
+		"order:" : "sebastian.sastre 7/1/2009 16:34" } }

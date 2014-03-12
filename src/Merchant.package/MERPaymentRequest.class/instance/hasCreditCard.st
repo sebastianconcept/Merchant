@@ -1,0 +1,4 @@
+testing
+hasCreditCard
+
+	^ creditCard notNil	

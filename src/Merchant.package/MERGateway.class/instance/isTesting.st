@@ -1,0 +1,4 @@
+testing
+isTesting
+
+	^ isProduction not

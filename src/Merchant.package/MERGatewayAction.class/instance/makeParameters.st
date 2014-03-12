@@ -1,0 +1,4 @@
+actions
+makeParameters
+
+	self subclassResponsibility 

@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Gateways",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERBraintree",
+	"pools" : [
+		 ],
+	"super" : "MERVaultGateway",
+	"type" : "normal" }

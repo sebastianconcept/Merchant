@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"developmentGatewayUrl" : "sebastiansastre 1/27/2012 13:42",
+		"productionGatewayUrl" : "sebastiansastre 1/27/2012 13:41" },
+	"instance" : {
+		"authorize:token:" : "sebastiansastre 5/11/2012 09:58",
+		"authorizeActionClass" : "SebastianSastre 1/24/2012 17:09",
+		"captureWithTokenActionClass" : "sebastiansastre 5/11/2012 11:32",
+		"execute:" : "sebastiansastre 1/27/2012 17:00",
+		"gatewayResponseFor:on:" : "sebastiansastre 4/28/2012 06:07",
+		"merchantUsername" : "SebastianSastre 1/24/2012 15:58",
+		"merchantUsername:" : "SebastianSastre 1/24/2012 15:58",
+		"purchaseActionClass" : "sebastiansastre 2/16/2014 00:17",
+		"purchaseAndStoreActionClass" : "SebastianSastre 1/24/2012 16:24",
+		"purchaseWithTokenActionClass" : "sebastiansastre 5/11/2012 11:43",
+		"queryCardActionClass" : "SebastianSastre 1/24/2012 16:23",
+		"queryOrder:" : "sebastiansastre 5/11/2012 11:53",
+		"queryOrderActionClass" : "SebastianSastre 1/24/2012 16:35",
+		"storeActionClass" : "SebastianSastre 1/24/2012 16:36",
+		"unstore:" : "SebastianSastre 1/24/2012 16:01" } }

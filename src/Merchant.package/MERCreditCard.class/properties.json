@@ -1,0 +1,17 @@
+{
+	"category" : "Merchant-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastian.sastre 7/1/2009 17:30",
+	"instvars" : [
+		"cardNumber",
+		"expiryYear",
+		"expiryMonth",
+		"cardVerificationValue" ],
+	"name" : "MERCreditCard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

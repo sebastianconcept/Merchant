@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERCanNotTalkToGateway",
+	"pools" : [
+		 ],
+	"super" : "MERError",
+	"type" : "normal" }

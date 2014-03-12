@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Gateways",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isProduction" ],
+	"name" : "MERGateway",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

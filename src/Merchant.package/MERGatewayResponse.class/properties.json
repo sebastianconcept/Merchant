@@ -1,0 +1,15 @@
+{
+	"category" : "Merchant-Responses",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"raw",
+		"document" ],
+	"name" : "MERGatewayResponse",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

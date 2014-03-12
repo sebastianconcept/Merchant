@@ -1,0 +1,1 @@
+this exception tries to save money to the merchant by preventing to POST a transaction that can't be locally validated.

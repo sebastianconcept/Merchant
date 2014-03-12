@@ -1,0 +1,4 @@
+testing
+hasToken
+
+	^ token notNil	

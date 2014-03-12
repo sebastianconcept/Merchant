@@ -1,0 +1,17 @@
+{
+	"category" : "Merchant-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"amount",
+		"cardHash",
+		"expiration" ],
+	"name" : "MERDummyOrder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

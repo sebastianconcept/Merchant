@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

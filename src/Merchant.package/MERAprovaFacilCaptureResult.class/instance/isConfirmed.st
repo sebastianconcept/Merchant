@@ -1,0 +1,4 @@
+testing
+isConfirmed
+
+	^ self isAuthorized 

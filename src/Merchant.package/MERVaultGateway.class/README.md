@@ -1,0 +1,1 @@
+beside authorizations and captures, this abstract class is the parent of the gateways that can be used to store and unstore critical data in a vault

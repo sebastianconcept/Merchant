@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Gateways",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"merchantUsername" ],
+	"name" : "MERAprovaFacilGateway",
+	"pools" : [
+		 ],
+	"super" : "MERVaultGateway",
+	"type" : "normal" }

@@ -1,0 +1,10 @@
+SystemOrganization addCategory: #Merchant!
+SystemOrganization addCategory: 'Merchant-Actions'!
+SystemOrganization addCategory: 'Merchant-Actions-AprovaFacil'!
+SystemOrganization addCategory: 'Merchant-Errors'!
+SystemOrganization addCategory: 'Merchant-Gateways'!
+SystemOrganization addCategory: 'Merchant-Model'!
+SystemOrganization addCategory: 'Merchant-Notifications'!
+SystemOrganization addCategory: 'Merchant-Responses'!
+SystemOrganization addCategory: 'Merchant-Responses-AprovaFacil'!
+SystemOrganization addCategory: 'Merchant-Types'!

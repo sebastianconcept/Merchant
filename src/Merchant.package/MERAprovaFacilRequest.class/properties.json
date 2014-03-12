@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Actions-AprovaFacil",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"token" ],
+	"name" : "MERAprovaFacilRequest",
+	"pools" : [
+		 ],
+	"super" : "MERAuthorizationRequest",
+	"type" : "normal" }

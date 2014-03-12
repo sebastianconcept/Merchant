@@ -1,0 +1,4 @@
+actions
+beTesting
+
+	isProduction := false

@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Responses-AprovaFacil",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERAprovaFacilCaptureResult",
+	"pools" : [
+		 ],
+	"super" : "MERGatewayResponse",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERPurchaseAuthorized",
+	"pools" : [
+		 ],
+	"super" : "MERAuthorizedTransaction",
+	"type" : "normal" }

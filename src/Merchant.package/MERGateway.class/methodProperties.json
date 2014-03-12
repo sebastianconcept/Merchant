@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"gatewayUrl" : "sebastian.sastre 6/27/2009 17:17" },
+	"instance" : {
+		"answerFromResponse:on:" : "sebastiansastre 4/28/2012 06:00",
+		"authorize:with:" : "SebastianSastre 1/24/2012 16:40",
+		"beProduction" : "sebastian.sastre 6/27/2009 15:20",
+		"beTesting" : "sebastian.sastre 6/27/2009 15:20",
+		"canValidateLocally:" : "sebastian.sastre 7/1/2009 11:35",
+		"capture:with:" : "sebastian.sastre 7/1/2009 17:00",
+		"creditAmmount:to:" : "sebastian.sastre 6/27/2009 15:07",
+		"execute:" : "sebastiansastre 1/27/2012 11:10",
+		"gatewayResponseClass" : "sebastiansastre 7/1/2011 14:04",
+		"gatewayResponseClassFor:" : "sebastiansastre 7/1/2011 14:03",
+		"gatewayUrl" : "sebastiansastre 1/27/2012 13:45",
+		"httpPost:args:" : "sebastiansastre 1/27/2014 13:27",
+		"initialize" : "sebastian.sastre 6/27/2009 15:21",
+		"isProduction" : "sebastian.sastre 6/27/2009 15:20",
+		"isTesting" : "sebastian.sastre 6/27/2009 15:20",
+		"onAboutToProcess:" : "sebastiansastre 10/22/2011 15:07",
+		"process:" : "sebastiansastre 5/11/2012 16:39",
+		"purchase:with:" : "sebastiansastre 7/1/2011 14:03",
+		"purchaseActionClass" : "sebastiansastre 7/1/2011 14:03",
+		"recurring:with:" : "sebastian.sastre 7/1/2009 17:00",
+		"storeActionClass" : "sebastiansastre 7/1/2011 14:07" } }

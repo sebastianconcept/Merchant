@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Responses",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERAbstractAuthorizedTransaction",
+	"pools" : [
+		 ],
+	"super" : "MERGatewayResponse",
+	"type" : "normal" }

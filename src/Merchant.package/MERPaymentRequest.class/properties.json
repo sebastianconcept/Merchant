@@ -1,0 +1,15 @@
+{
+	"category" : "Merchant-Actions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"order",
+		"creditCard" ],
+	"name" : "MERPaymentRequest",
+	"pools" : [
+		 ],
+	"super" : "MERGatewayAction",
+	"type" : "normal" }

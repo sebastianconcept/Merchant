@@ -1,0 +1,15 @@
+{
+	"category" : "Merchant-Actions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gateway",
+		"parameters" ],
+	"name" : "MERGatewayAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

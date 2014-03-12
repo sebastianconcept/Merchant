@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERAmericanExpressType",
+	"pools" : [
+		 ],
+	"super" : "MERCardType",
+	"type" : "normal" }

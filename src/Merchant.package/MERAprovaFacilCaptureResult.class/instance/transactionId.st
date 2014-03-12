@@ -1,0 +1,4 @@
+accessing
+transactionId
+
+	^ self transaction

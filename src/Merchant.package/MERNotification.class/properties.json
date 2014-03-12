@@ -1,0 +1,14 @@
+{
+	"category" : "Merchant-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MERNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }
