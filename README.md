@@ -5,9 +5,23 @@ This is a credit card processing library. I needed this for [airflowing](http://
 
 I've only needed to use [AprovaFacil](http://www.cobrebem.com.br/aprovafacil.html) so let me know if you want to support another gateway (there is a skeleton for [this one](https://www.braintreepayments.com/))
 
+###Loading 
+
+Use this snippet to load it into your Pharo image:
+
+    Gofer it 
+		smalltalkhubUser: 'MetaRepoForPharo30' 
+		project: 'ConfigurationOfMerchant';
+		load.
+	
+    (Smalltalk at: #ConfigurationOfMerchant) load
+
 ###Example
 
-    gateway := MERAprovaFacilGateway new    				merchantUsername: merchantUsername;    				beProduction;    				yourself. 
+    gateway := MERAprovaFacilGateway new
+    				merchantUsername: merchantUsername;
+    				beProduction;
+    				yourself. 
 
    Having the credit card and order objects, it allows you then to do something like this:
    
@@ -22,6 +36,10 @@ The rest is a couple of additional commands and protocol and handling errors ele
 Have a great business
 
 o/
+
+###Contributions
+
+...are welcomed, send that push request and we review it together
 
 _______
 MIT - License
