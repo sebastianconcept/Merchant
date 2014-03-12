@@ -1,9 +1,9 @@
 Merchant
 ========
 
-This is a credit card processing library. I needed this for airflowing an application from flowing.
+This is a credit card processing library. I needed this for [airflowing](http://airflowing.com/) an application from [flowing](http://flowingconcept.com/).
 
-I've only needed to use [AprovaFacil](http://www.cobrebem.com.br/aprovafacil.html) so let me know if you want to support another gateway
+I've only needed to use [AprovaFacil](http://www.cobrebem.com.br/aprovafacil.html) so let me know if you want to support another gateway (there is a skeleton for [this one](https://www.braintreepayments.com/))
 
 ###Example
 
