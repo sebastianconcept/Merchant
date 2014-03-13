@@ -24,14 +24,20 @@ Use this snippet to load it into your Pharo image:
     				beProduction;
     				yourself. 
 
-   Having the credit card and order objects, it allows you then to do something like this:
+   Having the credit card and order objects allows you to do something like this:
    
     gateway purchase: anOrder andStore: aCreditCard.
 
-And because you are a good citizen and do _not_ store credit cards on your servers, you then take the money using the order and the CC's token:   
+Which will make Merchant to actually _not_ store credit cards on your servers but the token given by your gateway so you can later make a capture to take the money using:   
    
     gateway capture: anOrder token: aToken.
-        
+
+After that doIt, if authorised, you are 'anOrder value' richer* 
+
+Performing a doIt in a Smalltalk workspace never felt so good :)
+
+*okay, minus costs
+
 The rest is a couple of additional commands and protocol and handling errors elegantly
 
 Have a great business
@@ -40,7 +46,7 @@ o/
 
 ###Contributions
 
-...are welcomed, send that push request and we review it together
+...are welcomed, send that push request and we can review it together
 
 _______
 MIT - License
