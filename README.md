@@ -7,7 +7,7 @@ I've only needed to use [AprovaFacil](http://www.cobrebem.com.br/aprovafacil.htm
 
 ###Loading 
 
-Use this snippet to load it into your Pharo image:
+Use this snippet to load it into your [Pharo](http://www.pharo-project.org/home)* image:
 
     Gofer it 
 		smalltalkhubUser: 'Pharo'
@@ -40,14 +40,21 @@ Performing a doIt in a Smalltalk workspace never felt so good :)
 
 The rest is a couple of additional commands and protocol and handling errors elegantly
 
-Have a great business
-
-o/
+Have a happy business :D
 
 ###Contributions
 
-...are welcomed, send that push request and we can review it together
+...are welcomed, send that push request and hopefully we can review it together
+
+###*Pharo Smalltalk
+Getting a fresh Pharo Smalltalk image and its virtual machine is as easy as running in your terminal:
+ 
+    wget -O- get.pharo.org/30+vm | bash
 
 _______
+
 MIT - License
 
+2014 - [sebastian](http://about.me/sebastianconcept)
+
+o/
