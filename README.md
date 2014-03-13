@@ -10,8 +10,9 @@ I've only needed to use [AprovaFacil](http://www.cobrebem.com.br/aprovafacil.htm
 Use this snippet to load it into your Pharo image:
 
     Gofer it 
-		smalltalkhubUser: 'MetaRepoForPharo30' 
-		project: 'ConfigurationOfMerchant';
+		smalltalkhubUser: 'Pharo'
+		project: 'MetaRepoForPharo30'; 
+		package: 'ConfigurationOfMerchant';
 		load.
 	
     (Smalltalk at: #ConfigurationOfMerchant) load
